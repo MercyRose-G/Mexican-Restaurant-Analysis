@@ -2,7 +2,7 @@
 
 ![](IMG_7557.PNG)
 
-# 🍽️ Restaurant Rating Project
+# 🍽️Mexican Restaurant Rating Project
 
 ## 📌 Introduction  
 This project analyzes the **Restaurant Rating dataset (Mexico, 2012)** collected from customer surveys.  
