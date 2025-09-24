@@ -1,6 +1,6 @@
 # Mexican-Restaurant-Analysis
 
-![]()
+![](IMG_7557.PNG)
 
 # 🍽️ Restaurant Rating Project
 
@@ -47,7 +47,7 @@ The goal of this analysis is to extract **actionable insights** for entrepreneur
 ---
 
 ## 📊 Visualization (Power BI Dashboard)  
-![Dashboard Screenshot](dashboard.png)  
+![Dashboard Screenshot](mexican.png)  
 
 - **Top 10 Restaurants by Rating**  
 - **Cuisine Ratings vs. Preferences**  
@@ -75,8 +75,7 @@ The goal of this analysis is to extract **actionable insights** for entrepreneur
 
 ---
 
-## 📂 Files in this Project  
-- `restaurant_analysis.sql` → SQL queries for analysis  
-- `restaurant_results.xlsx` → Cleaned results in Excel  
-- `restaurant_dashboard.pbix` → Power BI interactive dashboard  
-- `dashboard.png` → Dashboard screenshot preview
+## 📂 Files in this Project   
+- `restaurant_results.xlsx` → Restaurant_Ratings_Analysis.xlsx
+- `restaurant_dashboard.pbix` →MEXICAN RESTAURANT RATING.pbix  
+- `dashboard.pdf` → MEXICAN RESTAURANT RATING.pdf
